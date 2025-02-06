@@ -11,7 +11,7 @@ I am an Informatics student with a passion for learning and exploring diverse fi
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@atayanofalll_)
 
 <!-- SVG & GIF -->
-[![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/assets/github-contribution-grid-snake-dark.svg)](https://athayanaufalbrasta.vercel.app/)
+[![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/main/assets/github-contribution-grid-snake-dark.svg)](https://athayanaufalbrasta.vercel.app/)
 
 [![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/main/dino.gif)](https://athayanaufalbrasta.vercel.app/)
 
