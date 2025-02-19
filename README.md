@@ -5,32 +5,15 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/EndeavourOS-7C4DFF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo" />
-  <img src="https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black" alt="Config Master" />
-
-
-![snake gif](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 # 👋 Hi there! I'm Naufal
 
 I am an Informatics student with a passion for learning and exploring diverse fields of technology. I love turning ideas into dynamic and functional websites, and I’m always eager to challenge myself with new concepts and tools. Whether it's creating seamless user experiences or building something unique from scratch, I thrive on making my projects come to life. Check out my repos, and let's collaborate to create something amazing together! 🚀💡
 
-<!-- ## 🌐 Socials: -->
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/atayanofall_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athayanaufalbrasta) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@atayanofalll_)
 
 <!-- SVG & GIF -->
-[![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/main/assets/dino.gif)](https://athayanaufalbrasta.vercel.app/)
-
-[![image](https://raw.githubusercontent.com/athayanaufalbrasta/athayanaufalbrasta/main/assets/github-contribution-grid-snake-dark.svg)](https://athayanaufalbrasta.vercel.app/)
+[![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/main/dino.gif)](https://athayanaufalbrasta.vercel.app/)
 
 <!-- ## 💻 Technical Skills:-->
 # 💻 Tech Stack:
@@ -81,10 +64,16 @@ I am an Informatics student with a passion for learning and exploring diverse fi
 <!-- ## 📊 GitHub  -->
 # 📊 GitHub Stats:
 <p align="left">
-  <a href="https://github.com/athayanaufalbrasta">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=algolia"/>
-  </a>
+  <div>
+    <img width="440px" src="https://github-readme-stats.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=onedark">
+    <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=onedark" />
+    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=athayanaufalbrasta&theme=github">
+    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=athayanaufalbrasta&theme=onedark" />
+  </div>
+  <!-- <a href="https://github.com/athayanaufalbrasta">
+    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=algolia"/>
+  </a> -->
 </p>
 
 <br>
@@ -95,3 +84,5 @@ I am an Informatics student with a passion for learning and exploring diverse fi
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=athayanaufalbrasta&theme=github-compact&radius=16" height="auto" alt="by athayanaufalbrasta"/>
   </a>
 </div>
+
+![snake gif](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/output/github-contribution-grid-snake-dark.svg)
