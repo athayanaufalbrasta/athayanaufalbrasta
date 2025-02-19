@@ -66,7 +66,7 @@ I am an Informatics student with a passion for learning and exploring diverse fi
 <p align="left">
   <a href="https://github.com/athayanaufalbrasta">
   <div>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=midnight-purple">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
     <img width="400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=midnight-purple" />
   </div>
   </a> 
