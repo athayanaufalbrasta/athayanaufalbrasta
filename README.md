@@ -65,10 +65,8 @@ I am an Informatics student with a passion for learning and exploring diverse fi
 # 📊 GitHub Stats:
 <p align="left">
   <div>
-    <img width="440px" src="https://github-readme-stats.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=onedark">
-    <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=onedark" />
-    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=athayanaufalbrasta&theme=github">
-    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=athayanaufalbrasta&theme=onedark" />
+    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=midnight_purple]]">
+    <img width="420px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=midnight_purple]]" />
   </div>
   <!-- <a href="https://github.com/athayanaufalbrasta">
     <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
