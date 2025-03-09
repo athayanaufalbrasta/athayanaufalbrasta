@@ -17,14 +17,15 @@
 # Hi there! 👋  
 
 I’m **Athaya <ins>_Naufal_</ins> Brasta**, an Informatics student at **Mikroskil University**, passionate about technology and innovation.  
-I have a strong interest in **Full-Stack Development, Ethical Hacking, Artificial Intelligence, and Blockchain**.  
+I have an interest in **Full-Stack Development, Ethical Hacking, Artificial Intelligence, and Blockchain**.  
 
 ## 🛠 Tech Stack & Expertise:  
-- 🚀 **Frontend & Full-Stack:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion, GSAP  
+- 🚀 **Frontend & Full-Stack:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion
 - 🐍 **Backend & Scripting:** Python, Node.js, Express.js  
 - 🗄️ **Databases & ORM:** MySQL, PostgreSQL, MongoDB, Prisma
-- 🖥️ **Operating System:** Windows, Linux, Kali Linux
+- 🛠️ **Development Tools:** Git, Github,ESLint, Vite, Vercel
 <!-- 
+- 🖥️ **Operating System:** Windows, Linux, Kali Linux
 - 🔒 **Security & Ethical Hacking:** Kali Linux, Burp Suite, Nmap, Wireshark  
 - 🤖 **AI & Machine Learning:** TensorFlow, OpenAI API  
 - ⛓️ **Blockchain & Web3:** Solidity, Ethereum Smart Contracts  
@@ -43,6 +44,7 @@ Feel free to explore my repositories—let’s build something awesome together!
 
 
 <!-- ## 💻 Technical Skills:-->
+<!-- 
 ## 💻 Tech Stack:
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -87,7 +89,7 @@ Feel free to explore my repositories—let’s build something awesome together!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+-->
 
 
 
