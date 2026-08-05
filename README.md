@@ -1,120 +1,113 @@
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athayanaufalbrasta&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-<h1 align="center">Hi, I'm Athaya Naufal Brasta</h1>
-<h3 align="center">Full Stack Developer | Ethical Hacking</h3>
--->
-
 <div align="center">
-  <a href="https://github.com/athayanaufalbrasta">
-    <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=160&section=header" width="100%"/>
+
+<h1>Athaya Naufal Brasta</h1>
+<p><b>Software Engineer @ PT Transporindo Agung Sejahtera · Informatics Student at Mikroskil University</b></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=1500&color=EC4899&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Next.js+%26+NestJS;Running+a+self-hosted+homelab+on+Proxmox;Hardening+networks+with+MikroTik+%26+OPNsense;Learning+cybersecurity+%26+DevSecOps" alt="Typing SVG" />
+
 </div>
 
+<br>
 
+### ✨ About Me
 
+Software Engineer at **PT Transporindo Agung Sejahtera**, and an Informatics student at **Mikroskil University**. I build full-stack applications and manage IT infrastructure across branch offices, while running a self-hosted homelab and expanding into networking, cybersecurity, and DevSecOps. Also exploring trading on the side.
 
-# Hi there! 👋  
+<br>
 
-I’m **Athaya <ins>_Naufal_</ins> Brasta**, an Informatics student at **Mikroskil University**, passionate about technology and innovation.  
-I have an interest in **Full-Stack Development, Ethical Hacking, Artificial Intelligence, and Blockchain**.  
+### 💻 Full-Stack Development
 
-## 🛠 Tech Stack & Expertise:  
-- 🚀 **Frontend & Full-Stack:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion
-- 🐍 **Backend & Scripting:** Python, Node.js, Express.js  
-- 🗄️ **Databases & ORM:** MySQL, PostgreSQL, MongoDB, Prisma
-- 🛠️ **Development Tools:** Git, Github,ESLint, Vite, Vercel
-<!-- 
-- 🖥️ **Operating System:** Windows, Linux, Kali Linux
-- 🔒 **Security & Ethical Hacking:** Kali Linux, Burp Suite, Nmap, Wireshark  
-- 🤖 **AI & Machine Learning:** TensorFlow, OpenAI API  
-- ⛓️ **Blockchain & Web3:** Solidity, Ethereum Smart Contracts  
--->
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-EC4899?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-F97316?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-8B5CF6?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-EC4899?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-F97316?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-EC4899?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-F97316?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-8B5CF6?style=flat-square&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Hook_Form-EC4899?style=flat-square&logo=reacthookform&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-F97316?style=flat-square&logo=shadcnui&logoColor=white" />
+</p>
 
-I love turning ideas into real-world applications, optimizing performance, and continuously learning new things.  
-Feel free to explore my repositories—let’s build something awesome together! 💡✨  
+### 🗄️ Databases & ORM
 
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-EC4899?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-F97316?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-8B5CF6?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Knex.js-EC4899?style=flat-square&logo=knexdotjs&logoColor=white" />
+</p>
 
+### 🏠 Homelab & Virtualization
 
+<p align="center">
+<img src="https://img.shields.io/badge/Proxmox-8B5CF6?style=flat-square&logo=proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-EC4899?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jellyfin-F97316?style=flat-square&logo=jellyfin&logoColor=white" />
+<img src="https://img.shields.io/badge/Nextcloud-8B5CF6?style=flat-square&logo=nextcloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Immich-EC4899?style=flat-square&logo=immich&logoColor=white" />
+</p>
 
-<!-- SVG & GIF -->
-[![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/main/dino.gif)](https://athayanaufalbrasta.vercel.app/)
+### 🌐 Networking
 
+<p align="center">
+<img src="https://img.shields.io/badge/MikroTik-8B5CF6?style=flat-square&logo=mikrotik&logoColor=white" />
+<img src="https://img.shields.io/badge/OPNsense-EC4899?style=flat-square&logo=opnsense&logoColor=white" />
+<img src="https://img.shields.io/badge/VLAN-F97316?style=flat-square&logo=cisco&logoColor=white" />
+</p>
 
+### 🔒 Cybersecurity & DevSecOps
 
+<p align="center">
+<img src="https://img.shields.io/badge/Kali_Linux-8B5CF6?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-EC4899?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-F97316?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-8B5CF6?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata-EC4899?style=flat-square&logo=suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/Zenarmor-F97316?style=flat-square" />
+</p>
 
-<!-- ## 💻 Technical Skills:-->
-<!-- 
-## 💻 Tech Stack:
-### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🛠️ Tools
 
-### Web Development Platforms
-![Wordpress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Webflow](https://img.shields.io/badge/webflow-%23000000.svg?style=for-the-badge&logo=webflow&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404e63.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-05ADBF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Design & Productivity Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
--->
-
-
-
-
-<!-- ## 📊 GitHub  -->
-## 📊 GitHub Stats:
-<p align="left">
-  <a href="https://github.com/athayanaufalbrasta">
-  <div>
-    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&"/>
-    <img width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=midnight-purple" />
-  </div>
-  </a> 
+<p align="center">
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-EC4899?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-F97316?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-8B5CF6?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-EC4899?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/ESLint-F97316?style=flat-square&logo=eslint&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-8B5CF6?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-EC4899?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-F97316?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
 <br>
 
+### 📊 GitHub Stats
 
-
-
-<!-- ## 📈 Activity Graph -->
-<div align="left">
-  <a href="https://athayanaufalbrasta.vercel.app/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=athayanaufalbrasta&theme=github-compact&radius=16" height="auto" alt="by athayanaufalbrasta"/>
-  </a>
+<div align="center">
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athayanaufalbrasta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athayanaufalbrasta&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-![snake gif](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=athayanaufalbrasta&theme=redical&radius=16&hide_border=true" height="auto" alt="by athayanaufalbrasta"/>
+</div>
+
+<br>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EC4899,100:8B5CF6&height=100&section=footer" width="100%"/>
+</div>
